@@ -2,4 +2,4 @@
 
 This is some text
 
-README files have notes for the project/repo
+README files have notes for no reason
